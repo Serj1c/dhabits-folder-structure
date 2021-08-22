@@ -1,5 +1,6 @@
-## Digital Habits entrance test
-# App which makes api fetch request and displays result: folders structure
+Digital Habits entrance test
+
+App which makes api fetch request and displays folders structure
 
 To start app locally: yarn start
 
