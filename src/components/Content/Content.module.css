@@ -3,20 +3,24 @@
     justify-content: center;
     width: 70%;
     margin: 2rem auto 0 auto;
-    border: 1px solid black;
     height: fit-content;
 }
 
 .root_list {
     list-style: none;
-    width: 100%;
 }
 
 .root_list_element {
     display: flex;
+    margin-bottom: 0.5rem;
+    align-items: center;
 }
 
 .root_list_item {
-    margin-bottom: 0.5rem;
     cursor: pointer;
+    padding-left: 0.5rem;
+}
+
+.fallback {
+    display: block;
 }
